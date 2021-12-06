@@ -1,1 +1,4 @@
-# algorithm-leetcode-merge_k_lists
+# merge_k_lists
+
+https://leetcode.com/problems/merge-k-sorted-lists/
+
